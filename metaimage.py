@@ -4,7 +4,7 @@
 # Auteur ...... : Georges Miot
 # Version ..... : V0.1 du 12/08/2022
 # Licence ..... : réalisé dans le cadre du cours de OC
-# Usage : Pour exécuter : streamlit run https://github.com/MrBabayser/streamlit.git/metaimage.py
+# Usage : Pour exécuter : streamlit run https://github.com/MrBabayser/streamlit/blob/main/metaimage.py
 #******************************************************************************************************/
  
 import streamlit as st
